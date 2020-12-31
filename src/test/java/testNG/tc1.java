@@ -18,7 +18,7 @@ public class tc1 {
 		  driver = new ChromeDriver();
 		  driver.manage().window().maximize();
 		  driver.manage().timeouts().implicitlyWait(30,TimeUnit.SECONDS);
-		  driver.get("http://18.205.161.135:32770/addressbook/");
+		  driver.get("http://35.173.245.94:32768/addressbook/");
 		
 		}
 		
